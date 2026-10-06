@@ -1,0 +1,5 @@
+{
+  "format": "minu-license/1",
+  "payload": "{\n  \"v\": 1,\n  \"minVersion\": \"1.0.0\",\n  \"graceHours\": 24,\n  \"codes\": [\n    {\n      \"label\": \"Bishal\",\n      \"hash\": \"65ed4eb64225fbea0f9b9bf0b0ee6d38bc9dc7dd58e5473c674990ef497f46fb\",\n      \"active\": true,\n      \"created\": \"2026-10-06\"\n    }\n  ]\n}",
+  "sig": "unimplemented"
+}
